@@ -1,0 +1,6 @@
+Variable,Chi2,p-value,Degree of Freedom,Result
+srh_n,77.79632545480973,1.3560676537263018e-13,8,"significant, reject the null hypothesis"
+sto_n,6.059980665867116,0.04831610519880934,2,"significant, reject the null hypothesis"
+chr_n,33.337595177654684,5.765449695632282e-08,2,"significant, reject the null hypothesis"
+int_n,47.379939442334695,1.2977073726783918e-07,8,"significant, reject the null hypothesis"
+dan_n,24.22537254934864,0.0021005910800074227,8,"significant, reject the null hypothesis"
