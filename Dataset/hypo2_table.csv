@@ -1,6 +1,6 @@
-Variable,Chi2,p-value,Degree of Freedom,Result
-srh_n,77.79632545480973,1.3560676537263018e-13,8,"significant, reject the null hypothesis"
-sto_n,6.059980665867116,0.04831610519880934,2,"significant, reject the null hypothesis"
-chr_n,33.337595177654684,5.765449695632282e-08,2,"significant, reject the null hypothesis"
-int_n,47.379939442334695,1.2977073726783918e-07,8,"significant, reject the null hypothesis"
-dan_n,24.22537254934864,0.0021005910800074227,8,"significant, reject the null hypothesis"
+Variable,F-Statistic,p-value,Result
+age_n,18.647530985834145,3.833920656560597e-15,"significant, reject the null hypothesis"
+iin_n,34.87919711758727,1.7877300952929041e-28,"significant, reject the null hypothesis"
+hin_n,22.45430150038465,2.7949469669519576e-18,"significant, reject the null hypothesis"
+cov_n,9.440615753979795,1.4024421457345055e-07,"significant, reject the null hypothesis"
+urb_n,1.2641666421872346,0.2818059290924227,"not significant, fail to reject the null hypothesis"
