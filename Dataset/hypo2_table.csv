@@ -1,6 +1,0 @@
-Variable,F-Statistic,p-value,Result
-age_n,18.647530985834145,3.833920656560597e-15,"significant, reject the null hypothesis"
-iin_n,34.87919711758727,1.7877300952929041e-28,"significant, reject the null hypothesis"
-hin_n,22.45430150038465,2.7949469669519576e-18,"significant, reject the null hypothesis"
-cov_n,9.440615753979795,1.4024421457345055e-07,"significant, reject the null hypothesis"
-urb_n,1.2641666421872346,0.2818059290924227,"not significant, fail to reject the null hypothesis"

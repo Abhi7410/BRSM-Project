@@ -3,8 +3,8 @@
 Dep. Variable:                  srh_n   R-squared:                       0.186
 Model:                            OLS   Adj. R-squared:                  0.180
 Method:                 Least Squares   F-statistic:                     32.30
-Date:                Sun, 14 Apr 2024   Prob (F-statistic):          7.71e-111
-Time:                        10:47:02   Log-Likelihood:                -4084.8
+Date:                Tue, 07 May 2024   Prob (F-statistic):          7.71e-111
+Time:                        22:11:47   Log-Likelihood:                -4084.8
 No. Observations:                2853   AIC:                             8212.
 Df Residuals:                    2832   BIC:                             8337.
 Df Model:                          20                                         
